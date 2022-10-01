@@ -1,4 +1,4 @@
-package org.example;
+package org.ConsoleApp;
 
 import org.Calculator.ConsoleCalculator;
 import org.Calculator.ICalculator;
