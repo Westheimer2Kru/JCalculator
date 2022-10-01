@@ -7,5 +7,3 @@
 Файл калькулятора: src/main/Java/org/Calculator/ConsoleCalculator.java
 
 Операции: src/main/Java/org/Calculator/operations/consoleOperations/...
-
-## Спасибо за уделенное внимание!
