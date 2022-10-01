@@ -2,7 +2,7 @@
 
 ### Консольный калькулятор, поддерживающий базовые операторы (*, +, -, /)
 
-#Директории
+Директории
 Запуск из консоли: src/main/Java/org/ConsoleApp/App.java
 
 Файл калькулятора: src/main/Java/org/Calculator/ConsoleCalculator.java
